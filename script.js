@@ -27,7 +27,7 @@ const febHolidays = [
     "Baby",
     "Tujhe jhumke pasand hai",
     "Aur mujhe jhumko me tum💕✨",
-    "But anyways, Apna khyal rakhna my sweet little girlfriend(wife🤭)",
+    "But anyways, You are my sweet little girlfriend(wife🤭)",
     "You're the love of my life,",
     "I Love You So much💕"
   ];
